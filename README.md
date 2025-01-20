@@ -1,6 +1,5 @@
 # Mobile Radio Streaming App
 
-![Radio App Logo](https://via.placeholder.com/150)  
 **:radio: Live Online Radio Streaming App**  
 
 ---
